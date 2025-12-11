@@ -1,4 +1,4 @@
-# Pet-Sisters
+# PetConnect
 # 🐾 PetConnect - Adote um Amigo!
 
 O PetConnect é um sistema moderno de adoção de animais, desenvolvido para simplificar o processo de encontrar um lar amoroso para cães e gatos resgatados. Utiliza uma interface amigável baseada em Tailwind CSS e JavaScript puro (ES6) para oferecer uma experiência de usuário rápida e interativa.
